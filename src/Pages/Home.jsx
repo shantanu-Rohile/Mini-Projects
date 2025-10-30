@@ -1,4 +1,4 @@
-export default function App() {
+export default function Home() {
   const projects = [
     {
       title: "🎬 Movie Search App",

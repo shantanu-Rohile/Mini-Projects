@@ -1,5 +1,5 @@
 
-import Home from "./Pages/Home.jsx";
+import Home from "./Pages/Home";
 
 function App() {
   return (
